@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d2ab6e-b431-43fe-9d66-be400846443d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/LMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/bean/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/bean/IssuedBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/flipkart/bean/Librarian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+
+      <change afterPath="$PROJECT_DIR$/src/com/flipkart/client/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/AdminServiceOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/BookServiceOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/IssuedBookServiceOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/LibrarianServiceOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/flipkart/bean/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/flipkart/bean/Admin.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+
+        <option value="Interface" />
+
         <option value="Class" />
       </list>
     </option>
