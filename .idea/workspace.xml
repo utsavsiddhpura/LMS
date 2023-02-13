@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31d2ab6e-b431-43fe-9d66-be400846443d" name="Changes" comment="">
+
       <change afterPath="$PROJECT_DIR$/src/com/flipkart/client/MainMenu.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/AdminServiceOperation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/BookServiceOperation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/IssuedBookServiceOperation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/flipkart/service/LibrarianServiceOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+
         <option value="Interface" />
+
         <option value="Class" />
       </list>
     </option>
@@ -41,8 +45,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
