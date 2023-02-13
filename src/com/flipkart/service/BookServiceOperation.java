@@ -1,6 +1,11 @@
 package com.flipkart.service;
 
-public class BookServiceOperation {
+import com.flipkart.bean.Books;
+
+import java.util.List;
+
+public interface BookServiceOperation {
     public boolean addBook();
+    public List<Books> getBooks();
 
 }
