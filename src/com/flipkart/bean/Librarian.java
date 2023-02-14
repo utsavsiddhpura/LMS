@@ -4,7 +4,6 @@ public class Librarian {
     private int librarianID;
     private String librarianNAme;
     private String password;
-    private String address;
     private String email;
     private String city;
     private String contactNo;
@@ -33,13 +32,6 @@ public class Librarian {
         this.password = password;
     }
 
-    public String getAddress() {
-        return address;
-    }
-
-    public void setAddress(String address) {
-        this.address = address;
-    }
 
     public String getEmail() {
         return email;
